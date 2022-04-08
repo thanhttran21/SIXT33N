@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/neilk/Desktop/sp22/light_sensor/digikey-kicad-library-master (1)/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "sixteen_b_car")(type "KiCad")(uri "C:/Users/neilk/Desktop/sp22/light_sensor/usb_charger/sixteen_b_car.pretty")(options "")(descr ""))
+)
