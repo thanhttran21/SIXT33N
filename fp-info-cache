@@ -1,4 +1,4 @@
-20583627979152993
+20590225521017109
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87730,3 +87730,31 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
+sixteen_b_car
+SW_DPDT_CK_JS202011JCQN
+Sub-miniature slide switch, vertical, SMT J bend https://dznh3ojzb2azq.cloudfront.net/products/Slide/JS/documents/datasheet.pdf
+switch DPDT SMT
+0
+6
+6
+sixteen_b_car
+lm6482_pdip
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+8
+8
+sixteen_b_car
+lmc6482
+
+
+0
+8
+8
+sixteen_b_car
+slide_switch
+
+
+0
+6
+6
